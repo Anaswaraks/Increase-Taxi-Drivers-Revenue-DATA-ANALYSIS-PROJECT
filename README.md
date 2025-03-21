@@ -22,9 +22,5 @@ SciPy for hypothesis testing.
 The dataset used is the NYC Taxi Trip Records, which provides comprehensive information on passenger counts, payment types, fare amounts, and trip distances
 
  I’ve completed the data cleaning and feature engineering process, focusing on relevant columns like payment type, fare amount, and trip distance.
-I’ve also conducted exploratory data analysis and hypothesis testing, which revealed that customers paying with cards tend to have higher average fares compared to cash payments.
-Moving forward, my next steps include:
+I’ve also conducted exploratory data analysis and hypothesis testing(T-test), which revealed that customers paying with cards tend to have higher average fares compared to cash payments.
 
-Building predictive models to forecast fare amounts based on payment types and other factors,
-
-Developing actionable recommendations for drivers to maximize revenue
